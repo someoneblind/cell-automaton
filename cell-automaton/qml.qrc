@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>WorkPanel.qml</file>
+        <file>ButtonsPanel.qml</file>
+        <file>Cell.qml</file>
+        <file>ButtonTemplate.qml</file>
+    </qresource>
+</RCC>
